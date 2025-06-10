@@ -28,7 +28,6 @@ The dataset consists of labeled MRI brain scan images, organized into two classe
 - `brain_tumor`: Contains images with visible tumors.
 - `no_tumor`: Contains images with no tumors.
 
-*You can add the dataset source link here if it's publicly available.*
 
 ## 🔍 How It Works
 
